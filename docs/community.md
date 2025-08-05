@@ -4,7 +4,7 @@ OpenCost is a [CNCF Incubating project](https://www.cncf.io/projects/opencost/) 
 
 * CNCF Slack: https://slack.cncf.io/ #opencost
 * OpenCost Community Meetings
-  * [Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/opencost)
+  * [Calendar]( https://docs.google.com/document/d/1hDl-t7hCNN4MlDoloojTsVH0Mso-9H2p1TYPlmMeSUM/edit?tab=t.0)
   * [Community Meetings every other Thursday at 1pm Pacific](https://bit.ly/opencost-community-meeting-cncf)
   * [Community Meeting Notes](https://docs.google.com/document/d/1hDl-t7hCNN4MlDoloojTsVH0Mso-9H2p1TYPlmMeSUM/edit?tab=t.0)
 
